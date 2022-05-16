@@ -52,6 +52,8 @@ If you have any issue for confustions, please go through these links
 4) My model files
 
         https://drive.google.com/file/d/1p-DRUSWjiRJV8QdmSgPhOillR5TfA6Eq/view
+
+5) Please check the .txt files in models folder
         
         
 # 
