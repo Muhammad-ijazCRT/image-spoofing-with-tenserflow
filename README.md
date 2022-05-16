@@ -35,7 +35,7 @@ For previous install req.txt and for updated model install requirements.txt
 # Helping matrials  :ok_hand:
 If you have any issue for confustions, please go through these links
 
-## Youtube link
+## YouTube link
 1) Deep Learning in Django || (Image Classification) || Complete tutorial 2020
     
         https://www.youtube.com/watch?v=mgX-2_ybqNk&t=1054s&ab_channel=TechnologyforNoobs
