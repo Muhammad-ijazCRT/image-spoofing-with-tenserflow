@@ -1,21 +1,23 @@
 # image-spoofing-with-tenserflow :heart: :heart: :heart_on_fire:	
 image-spoofing-with-tenserflow
 
-it's a face spoofing detection project. This project consist of tenserflow model, which predict that the image that you have feed your is real or your create it on any tool, website or any paint etc... it also show the fake it there any editing done on image...
+it's a face spoofing detection project. This project consists of a tenserflow model, which predict that the image that you have feed your is real or your create it on any tool, website or any paint etc... it also show the fake it there any editing done on image...
 
 ## predicted results of models :mending_heart:
-There are two predictions of model, fake and real <br>
+it's a face spoofing detection project. This project consists of a TensorFlow model, which predicts that the image that you have fed to the model is a real image or you have created it on any tool, website, paint, etc... it also shows the fake it there any editing done on the image...
+
 ### Fake :eyes:
-if there there is image is created by any tool, website, paint or done any editing on the image it detect it as fake.
+
+if there there is an image created by any tool, website, paint, or done any editing on the image it detects it as fake.
 
 ### Real :100:
-if any image is create on camra and without any editing or changes feed it to the model, it will predict it as Real images.
+if any image is created on CAMRA and without any editing or changes fed to the model, it will predict it as Real 
 
 ## model.h5 :ghost:
 Machine learning models are pickel models with .pkl and when you create such pickle model with tenserflow then its known as <strong> Hierarchical Data Format 5 </strong> model with <strong> .h5 extention </strong> . As you know in this project, i have used tenserflow model. so it's <strong> Hierarchical Data Format 5 </strong> model with <strong> .h5 extention </strong> . <br>
 
 ### Download model.h5 ( MobileNetModelImagenet.h5 )  :smiley_cat:	
-it was very hivy/big siz model, so you can download model from the give links.
+it was a very heavy/big size model, so you can download the model from the given links
 
 ### updated model link  :smiley_cat:	
 
@@ -28,7 +30,7 @@ it was very hivy/big siz model, so you can download model from the give links.
     
     
 ## Note  :curly_haired_man:
-For previos install req.txt and for updated model install requirements.txt
+For previous install req.txt and for updated model install requirements.txt
 
 # Helping matrials  :ok_hand:
 If you have any issue for confustions, please go through these links
