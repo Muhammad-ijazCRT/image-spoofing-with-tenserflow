@@ -39,13 +39,16 @@ If you have any issue for confustions, please go through these links
         https://www.youtube.com/watch?v=mgX-2_ybqNk&t=1054s&ab_channel=TechnologyforNoobs
     
 2) Deployment of Deep Learning Model using Flask (with .h5 model)
+
         https://www.youtube.com/watch?v=CSEmUmkfb8Q
 
 
 3) Image Classification Webapp | Flask
+
         https://www.youtube.com/watch?v=ksCYBZIGShI&ab_channel=ArtificialIntelligenceHub
         
 4) My model files
+
         https://drive.google.com/file/d/1p-DRUSWjiRJV8QdmSgPhOillR5TfA6Eq/view
         
 
